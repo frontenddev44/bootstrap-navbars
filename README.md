@@ -1,3 +1,3 @@
 # bootstrap-navbars
 
-bootstrap navbar extensions
+bootstrap navbar extension
